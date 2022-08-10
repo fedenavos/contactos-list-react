@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Contact list
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was part of the Open Bootcamp React Course.
+It's a simple list of contacts with ABM functions.
 
 ## Available Scripts
 
